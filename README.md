@@ -23,4 +23,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## Licence
 [MIT](https://choosealicense.com/licenses/mit/)
 
-[KODLUYORUZ](https://cdn.dribbble.com/users/87150/screenshots/4206486/kodluyoruz_logo_16-9.gif)
+![KODLUYORUZ](https://cdn.dribbble.com/users/87150/screenshots/4206486/kodluyoruz_logo_16-9.gif)
